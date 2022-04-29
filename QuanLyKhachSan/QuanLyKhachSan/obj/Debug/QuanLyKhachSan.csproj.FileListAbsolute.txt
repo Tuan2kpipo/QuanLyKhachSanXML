@@ -1,0 +1,42 @@
+T:\DHSPKT\HK5\CONG_NGHE_XML\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+T:\DHSPKT\HK5\CONG_NGHE_XML\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+T:\DHSPKT\HK5\CONG_NGHE_XML\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+T:\DHSPKT\HK5\CONG_NGHE_XML\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.AssemblyReference.cache
+T:\DHSPKT\HK5\CONG_NGHE_XML\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmKhachHang.resources
+T:\DHSPKT\HK5\CONG_NGHE_XML\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmNhanVien.resources
+T:\DHSPKT\HK5\CONG_NGHE_XML\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+T:\DHSPKT\HK5\CONG_NGHE_XML\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmTrangChu.resources
+T:\DHSPKT\HK5\CONG_NGHE_XML\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+T:\DHSPKT\HK5\CONG_NGHE_XML\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+T:\DHSPKT\HK5\CONG_NGHE_XML\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+T:\DHSPKT\HK5\CONG_NGHE_XML\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+G:\Project Freelance\Hotel Management\XML\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+G:\Project Freelance\Hotel Management\XML\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+G:\Project Freelance\Hotel Management\XML\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+G:\Project Freelance\Hotel Management\XML\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.AssemblyReference.cache
+G:\Project Freelance\Hotel Management\XML\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmKhachHang.resources
+G:\Project Freelance\Hotel Management\XML\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmNhanVien.resources
+G:\Project Freelance\Hotel Management\XML\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+G:\Project Freelance\Hotel Management\XML\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmTrangChu.resources
+G:\Project Freelance\Hotel Management\XML\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+G:\Project Freelance\Hotel Management\XML\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+G:\Project Freelance\Hotel Management\XML\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+G:\Project Freelance\Hotel Management\XML\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+G:\Project Freelance\Hotel Management\XML\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmDangNhap.resources
+G:\Project Freelance\Hotel Management\XML\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmTaiKhoan.resources
+G:\Project Freelance\Hotel Management\XML\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmHoaDon.resources
+C:\Users\Admin\Desktop\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+C:\Users\Admin\Desktop\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+C:\Users\Admin\Desktop\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+C:\Users\Admin\Desktop\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmDangNhap.resources
+C:\Users\Admin\Desktop\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmHoaDon.resources
+C:\Users\Admin\Desktop\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmTaiKhoan.resources
+C:\Users\Admin\Desktop\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmKhachHang.resources
+C:\Users\Admin\Desktop\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmNhanVien.resources
+C:\Users\Admin\Desktop\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+C:\Users\Admin\Desktop\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmTrangChu.resources
+C:\Users\Admin\Desktop\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+C:\Users\Admin\Desktop\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb

@@ -1,0 +1,87 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="_x0027_NhanVien_x0027_" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="_x0027_NhanVien_x0027_">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="maNV" type="xs:string" minOccurs="0" />
+                <xs:element name="hoTen" type="xs:string" minOccurs="0" />
+                <xs:element name="diaChi" type="xs:string" minOccurs="0" />
+                <xs:element name="SDT" type="xs:string" minOccurs="0" />
+                <xs:element name="canCuoc" type="xs:string" minOccurs="0" />
+                <xs:element name="gioiTinh" type="xs:string" minOccurs="0" />
+                <xs:element name="matKhau" type="xs:string" minOccurs="0" />
+                <xs:element name="hoatDong" type="xs:int" minOccurs="0" />
+                <xs:element name="mucLuong" type="xs:decimal" minOccurs="0" />
+                <xs:element name="maCV" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <_x0027_NhanVien_x0027_>
+    <maNV>NV00001</maNV>
+    <hoTen>Nguyễn Đức Tuân</hoTen>
+    <diaChi>Tp.Hưng Yên</diaChi>
+    <SDT>0186375276</SDT>
+    <canCuoc>033200001412</canCuoc>
+    <gioiTinh>Nam</gioiTinh>
+    <matKhau>mk1</matKhau>
+    <hoatDong>1</hoatDong>
+    <mucLuong>10000.0000</mucLuong>
+    <maCV>CV00001</maCV>
+  </_x0027_NhanVien_x0027_>
+  <_x0027_NhanVien_x0027_>
+    <maNV>NV00002</maNV>
+    <hoTen>Đinh Văn Tùng</hoTen>
+    <diaChi>Hà Nội</diaChi>
+    <SDT>0388121664</SDT>
+    <canCuoc>046202009308</canCuoc>
+    <gioiTinh>Nam</gioiTinh>
+    <matKhau>mk2</matKhau>
+    <hoatDong>1</hoatDong>
+    <mucLuong>10000.0000</mucLuong>
+    <maCV>CV00002</maCV>
+  </_x0027_NhanVien_x0027_>
+  <_x0027_NhanVien_x0027_>
+    <maNV>NV00003</maNV>
+    <hoTen>Nguyễn Thành Luân</hoTen>
+    <diaChi>Tp.Hưng Yên</diaChi>
+    <SDT>00332455684</SDT>
+    <canCuoc>783546715788</canCuoc>
+    <gioiTinh>Nam</gioiTinh>
+    <matKhau>mk3</matKhau>
+    <hoatDong>1</hoatDong>
+    <mucLuong>10000.0000</mucLuong>
+    <maCV>CV00003</maCV>
+  </_x0027_NhanVien_x0027_>
+  <_x0027_NhanVien_x0027_>
+    <maNV>NV00004</maNV>
+    <hoTen>Đặng Văn A</hoTen>
+    <diaChi>Tp. Hồ Chí Minh</diaChi>
+    <SDT>27182536524</SDT>
+    <canCuoc>231238216375</canCuoc>
+    <gioiTinh>Nam</gioiTinh>
+    <matKhau>mk4</matKhau>
+    <hoatDong>1</hoatDong>
+    <mucLuong>10000.0000</mucLuong>
+    <maCV>CV00004</maCV>
+  </_x0027_NhanVien_x0027_>
+  <_x0027_NhanVien_x0027_>
+    <maNV>NV00005</maNV>
+    <hoTen>Đặng Đức B</hoTen>
+    <diaChi>Tp.Thái Nguyên</diaChi>
+    <SDT>78364516423</SDT>
+    <canCuoc>712563412452</canCuoc>
+    <gioiTinh>Nam</gioiTinh>
+    <matKhau>mk5</matKhau>
+    <hoatDong>1</hoatDong>
+    <mucLuong>10000.0000</mucLuong>
+    <maCV>CV00005</maCV>
+  </_x0027_NhanVien_x0027_>
+</NewDataSet>

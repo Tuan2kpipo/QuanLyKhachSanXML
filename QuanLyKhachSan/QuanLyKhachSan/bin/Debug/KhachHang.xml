@@ -1,0 +1,79 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="_x0027_KhachHang_x0027_" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="_x0027_KhachHang_x0027_">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="maKH" type="xs:string" minOccurs="0" />
+                <xs:element name="hoTen" type="xs:string" minOccurs="0" />
+                <xs:element name="diaChi" type="xs:string" minOccurs="0" />
+                <xs:element name="SDT" type="xs:string" minOccurs="0" />
+                <xs:element name="canCuoc" type="xs:string" minOccurs="0" />
+                <xs:element name="gioiTinh" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <_x0027_KhachHang_x0027_>
+    <maKH>KH00001</maKH>
+    <hoTen>Nguyễn Đức Tuân</hoTen>
+    <diaChi>Tp.Hưng Yên</diaChi>
+    <SDT>0336043772</SDT>
+    <canCuoc>033200001412</canCuoc>
+    <gioiTinh>Nam</gioiTinh>
+  </_x0027_KhachHang_x0027_>
+  <_x0027_KhachHang_x0027_>
+    <maKH>KH00002</maKH>
+    <hoTen>Đinh Văn Tùng</hoTen>
+    <diaChi>Tp.Thái Nguyên</diaChi>
+    <SDT>0173574263</SDT>
+    <canCuoc>735752163456</canCuoc>
+    <gioiTinh>Nam</gioiTinh>
+  </_x0027_KhachHang_x0027_>
+  <_x0027_KhachHang_x0027_>
+    <maKH>KH00003</maKH>
+    <hoTen>Nguyễn Thành Luân</hoTen>
+    <diaChi>Tp.Thái Nguyên</diaChi>
+    <SDT>1875436422</SDT>
+    <canCuoc>298637821638</canCuoc>
+    <gioiTinh>Nam</gioiTinh>
+  </_x0027_KhachHang_x0027_>
+  <_x0027_KhachHang_x0027_>
+    <maKH>KH00004</maKH>
+    <hoTen>Nguyễn Văn A</hoTen>
+    <diaChi>Tp. Hà Nội</diaChi>
+    <SDT>1287368127</SDT>
+    <canCuoc>223217367523</canCuoc>
+    <gioiTinh>Nam</gioiTinh>
+  </_x0027_KhachHang_x0027_>
+  <_x0027_KhachHang_x0027_>
+    <maKH>KH00006</maKH>
+    <hoTen>Phạm Thị GiGi</hoTen>
+    <diaChi>Tp.Bắc Giang</diaChi>
+    <SDT>7525435145</SDT>
+    <canCuoc>908963217536</canCuoc>
+    <gioiTinh>Nữ</gioiTinh>
+  </_x0027_KhachHang_x0027_>
+  <_x0027_KhachHang_x0027_>
+    <maKH>KH00007</maKH>
+    <hoTen>Nguyễn Phương Hằng</hoTen>
+    <diaChi>Tp.Hà Nội</diaChi>
+    <SDT>2836175187</SDT>
+    <canCuoc>019273752644</canCuoc>
+    <gioiTinh>Nữ</gioiTinh>
+  </_x0027_KhachHang_x0027_>
+  <_x0027_KhachHang_x0027_>
+    <maKH>KH00001000</maKH>
+    <hoTen>Nguyễn Đức Tuân</hoTen>
+    <diaChi>Tp.Hưng Yên</diaChi>
+    <SDT>0336043772</SDT>
+    <canCuoc>033200001412</canCuoc>
+    <gioiTinh>Nam</gioiTinh>
+  </_x0027_KhachHang_x0027_>
+</NewDataSet>
